@@ -4,5 +4,7 @@ let divide = function () {return 2000 / 100}
 
 let square = x => x ** 2;
 
+//left of the arrow is variable set, to the right is function body
+
 let add = (a, b) => a + b; 
 
