@@ -8,3 +8,4 @@ let square = x => x ** 2;
 
 let add = (a, b) => a + b; 
 
+//when you have two variables, need parenthesis
